@@ -1,1 +1,1 @@
-This is the repository for private ACC projects.
+This is the repository for public examples.
